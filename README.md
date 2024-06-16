@@ -17,8 +17,15 @@
 
 - **Problem Solving**: I thrive on tackling complex problems and devising solutions that enhance user experience and efficiency.
 - **Innovation**: I'm passionate about leveraging AI and ML technologies to create intelligent applications that make a positive impact.
+- **Interactive Vizualization & Game Development**: Creating interactive experiences with technologies such as Unity, P5.js WebGL, combining creativity and technical skills.
 - **Learning & Growth**: Constantly exploring new technologies and methodologies to stay at the forefront of software development.
 - **Collaboration**: Enjoying working in collaborative environments where diverse ideas contribute to creative solutions.
+
+## 🌐 Portfolio Website
+
+Check out my portfolio website to see more of my projects and explore my work:
+
+[Portfolio Website](https://portfolio-website-neon-ten.vercel.app)
 
 ## 📫 Contact
 
