@@ -7,7 +7,8 @@
 - **Backend**: Node.js, Django, Express.js
 - **Databases**: SQLite, MySQL, Postgres, MongoDB
 - **APIs**: REST, GraphQL, Apollo Client, Hasura
-- Game Development: Unity (C#), P5.js, WebGL
+- **Game Development**: Unity (C#), P5.js, WebGL
+- **Design & Wireframing**: Figma, Canva, Balsamiq
 - **Cloud & Deployment**: AWS (S3, ELB, ECS, ECR), Docker, Terraform
 - **Testing & CI/CD**: Jest, Chai, Cypress, GitHub Actions
 - **Tools**: Figma, Anthropic Claude LLM API, RAG, Jira, Postman
