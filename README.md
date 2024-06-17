@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohan Krishna, a passionate Full Stack Software Developer with expertise in web and mobile, AI and ML-based application development. I enjoy solving real-world problems and improving efficiency through innovative technology solutions.
+👋 Hi, I'm Mohan Krishna, a passionate Full Stack Software Developer with expertise in web and mobile, AI and ML-based application development. I enjoy solving real-world problems and improving efficiency through innovative tech solutions.
 
 ## 🚀 Skills
 
