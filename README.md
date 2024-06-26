@@ -10,7 +10,7 @@
 - **Game Development**: Unity (C#), P5.js, WebGL
 - **Design & Wireframing**: Figma, Canva, Balsamiq
 - **Cloud & Deployment**: AWS (S3, ELB, ECS, ECR), Docker, Terraform
-- **Testing & CI/CD**: Jest, Chai, Cypress, GitHub Actions
+- **Testing & CI/CD**: Jest, Chai, Cypress, Python unittest
 - **Tools**: Figma, Anthropic Claude LLM API, RAG, Jira, Postman
 
 ## 🌟 What I Enjoy
