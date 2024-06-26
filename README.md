@@ -11,7 +11,7 @@
 - **Design & Wireframing**: Figma, Canva, Balsamiq
 - **Cloud & Deployment**: AWS (S3, ELB, ECS, ECR), Docker, Terraform
 - **Testing & CI/CD**: Jest, Chai, Cypress, Python unittest
-- **Tools**: Figma, Anthropic Claude LLM API, RAG, Jira, Postman
+- **Tools**: Figma, Anthropic Claude & Open AI LLM API, RAG, Jira, Postman
 
 ## 🌟 What I Enjoy
 
