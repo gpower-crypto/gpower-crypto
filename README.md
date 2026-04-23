@@ -12,5 +12,6 @@ I design and build AI automation systems for B2B companies — finding where man
 
 **Currently:** Building LevrFlow — AI automation for B2B operations.
 
-🌐 levrflow.com
+🌐 [levrflow.com](https://levrflow.com)
+
 📫 mohan@levrflow.com
